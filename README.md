@@ -13,6 +13,9 @@
   los conocimientos ya adquiridos en clases.
  
 ***Especificos*** 
+- Identificar los nodos presentes en cualquier circuito eléctrico
+- Reconocer los tipos de nodos 
+- Aplicar correctamente la LCK
 
 ### 2. MARCO TEÓRICO
 
