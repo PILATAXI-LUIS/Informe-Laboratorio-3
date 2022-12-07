@@ -117,6 +117,18 @@ Se realizó el calculo del porcentaje de error que tuvo en los 3 nodos relaciona
 
 **4.2 ERROR DEL VALOR TEÓRICO Y VALOR EXPERIMENTAL**
 
+*NODO B*
+
+![image](https://user-images.githubusercontent.com/116774906/206200838-6e591c2b-9646-4362-9709-6fb4b8560d2a.png)
+
+*NODO C*
+
+![image](https://user-images.githubusercontent.com/116774906/206200893-ef7d4576-1e5a-4b3b-8a20-276b143f8874.png)
+
+*NODO E*
+
+![image](https://user-images.githubusercontent.com/116774906/206200974-22db7fd8-ea76-4ddb-8de1-781aa60899d4.png)
+
 
 ### 5. VIDEO
 
