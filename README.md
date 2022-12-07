@@ -23,7 +23,8 @@
 
 ![image](https://user-images.githubusercontent.com/104925648/206082433-21e2e999-0b92-4afb-a22e-ecf3515d5458.png)
 
-![image](https://user-images.githubusercontent.com/104925648/206085402-abec2ba5-fd21-41df-86ab-a7c848ad8e33.png)
+![image](https://user-images.githubusercontent.com/104925648/206309823-f2e2203e-cad8-4b97-bb0c-5e1fa8d87a8c.png)
+
 
 ### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
