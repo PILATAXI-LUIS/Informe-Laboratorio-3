@@ -19,6 +19,9 @@
 
 ### 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/104925648/206080096-8e8796df-ecda-4299-9f14-8a0fa72372cc.png)
+
+
 ### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
