@@ -65,7 +65,12 @@
 
 ![image](https://user-images.githubusercontent.com/116774906/206181671-f58da0d6-9506-4e1b-acf0-193c93e351ec.png)
 
+*NODO B*
 
+
+*NODO C*
+
+*NODO E*
 
 
 
