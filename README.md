@@ -37,12 +37,36 @@
 
 ***ANALISIS DE NODOS***
 
+![image](https://user-images.githubusercontent.com/116774906/206180678-155fae31-7ed7-45bd-a85d-7753d5c6ccf3.png)
+
+![image](https://user-images.githubusercontent.com/116774906/206186690-2b2bc8e3-2a6f-451f-ad6a-fe970a3b7fd2.png)
+
+*NODO B*
+
+![image](https://user-images.githubusercontent.com/116774906/206187556-0b4fcda9-4329-4016-bbac-74556e3f38e1.png)
+
+![image](https://user-images.githubusercontent.com/116774906/206187665-cbc85947-583b-4dc2-bc37-d05b7f66e775.png)
+
+*NODO C*
+
+![image](https://user-images.githubusercontent.com/116774906/206188069-7584b015-f202-44f7-bf8b-36ee16f10919.png)
+
+![image](https://user-images.githubusercontent.com/116774906/206188152-69062855-bfb8-49db-b0d7-7e470a82216b.png)
+
+*NODO E*
+
+![image](https://user-images.githubusercontent.com/116774906/206188594-3708f737-cbce-419d-8fc0-efe4c05c7e78.png)
+
+![image](https://user-images.githubusercontent.com/116774906/206188925-ba6b9ec3-9a52-4110-9626-c4cb00c0c818.png)
+
+
+
 **MEDICIÓN DE VOLTAJE DE LOS NODOS EN EL SIMULADOR.**
 
 ![image](https://user-images.githubusercontent.com/116774906/206181671-f58da0d6-9506-4e1b-acf0-193c93e351ec.png)
 
 
-![image](https://user-images.githubusercontent.com/116774906/206180678-155fae31-7ed7-45bd-a85d-7753d5c6ccf3.png)
+
 
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
