@@ -6,21 +6,25 @@
   * Ordóñez Quiroz Fernando Gabriel
   * Pilataxi Constante Luis Jairo
 
-## 1._ Objetivos
+### 1. OBJETIVOS
 
-### Generales:
+***General***
  
-### Especificos: 
+***Especificos*** 
 
-## 2._ Marco Metodologico
+### 2. MARCO TEÓRICO
 
-## 3._ Ejercicios
+### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-## 4._ Video
+### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-## 5._ Conclusiones
+### 5. VIDEO
 
-## 6._ Bibliografía
+*Link del video:*
+
+## 6. CONCLUSIONES
+
+## 7._ BIBLIOGRAFÍA
 
   * Floyd, T. L. (2022). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
   
