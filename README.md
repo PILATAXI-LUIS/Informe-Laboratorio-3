@@ -97,6 +97,16 @@
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+Se realizó el calculo del porcentaje de error que tuvo en los 3 nodos relacionando los valores analíticos, simulados y el experimental
+
+![image](https://user-images.githubusercontent.com/116774906/206197844-e3d566dc-02c0-4b0e-8e8c-36b9feef75ec.png)
+
+**4.1 ERROR DEL VALOR TEÓRICO Y VALOR ANALÍTICO**
+
+
+**4.2 ERROR DEL VALOR TEÓRICO Y VALOR EXPERIMENTAL**
+
+
 ### 5. VIDEO
 
 *Link del video:*
