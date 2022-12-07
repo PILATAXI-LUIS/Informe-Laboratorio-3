@@ -9,6 +9,8 @@
 ### 1. OBJETIVOS
 
 ***General***
+- Comprobar de forma experimental, analítica y simulada el análisis de nodos, mediante el uso de la LCK para entender y aplicar
+  los conocimientos ya adquiridos en clases.
  
 ***Especificos*** 
 
