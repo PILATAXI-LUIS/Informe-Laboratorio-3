@@ -13,6 +13,7 @@
 *- Comprobar de forma experimental, analítica y simulada el voltaje de cada nodo presente en el circuito, con ayuda del analisis de nodos y el uso de la LCK, para obtener un mayor conocimiento acerca de las caracteristicas presentes en un circuito.* 
  
 ***Especificos*** 
+
 *- Identificar los nodos presentes en el circuito eléctrico.*
 
 *- Reconocer los tipos de nodos.*
