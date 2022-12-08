@@ -137,6 +137,12 @@ Se realizó el calculo del porcentaje de error que tuvo en los 3 nodos relaciona
 
 ## 6. CONCLUSIONES
 
+- Al realizar los cálculos de forma analítica y comparar con los resultados obtenidos de forma simulada llegamos a obtener
+  una mayor presisción en al anáisis de nodos
+- Un nodo es el punto de unión de dos o más elementos, y se clasifican en nodo fantasma, nodo principal y nodo de referencia
+- Para realizar el respectivo análisis de nodos en cualquier tipo de circuito siempre se tiene en cuenta el nodo de referencia, por lo que
+  conocer cada definición de dicho nodo es muy importante
+
 ## 7._ BIBLIOGRAFÍA
 
   * Floyd, T. L. (2022). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
