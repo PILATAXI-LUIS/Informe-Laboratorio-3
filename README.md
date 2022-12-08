@@ -9,13 +9,15 @@
 ### 1. OBJETIVOS
 
 ***General***
-- Comprobar de forma experimental, analítica y simulada el análisis de nodos, mediante el uso de la LCK para entender y aplicar
-  los conocimientos ya adquiridos en clases.
+
+*- Comprobar de forma experimental, analítica y simulada el voltaje de cada nodo presente en el circuito, con ayuda del analisis de nodos y el uso de la LCK, para obtener un mayor conocimiento acerca de las caracteristicas presentes en un circuito.* 
  
 ***Especificos*** 
-- Identificar los nodos presentes en cualquier circuito eléctrico
-- Reconocer los tipos de nodos 
-- Aplicar correctamente la LCK
+*- Identificar los nodos presentes en el circuito eléctrico.*
+
+*- Reconocer los tipos de nodos.*
+
+*- Aplicar correctamente la LCK.*
 
 ### 2. MARCO TEÓRICO
 
@@ -137,11 +139,14 @@ Se realizó el calculo del porcentaje de error que tuvo en los 3 nodos relaciona
 
 ## 6. CONCLUSIONES
 
-- Al realizar los cálculos de forma analítica y comparar con los resultados obtenidos de forma simulada llegamos a obtener
-  una mayor presisción en al anáisis de nodos
-- Un nodo es el punto de unión de dos o más elementos, y se clasifican en nodo fantasma, nodo principal y nodo de referencia
-- Para realizar el respectivo análisis de nodos en cualquier tipo de circuito siempre se tiene en cuenta el nodo de referencia, por lo que
-  conocer cada definición de dicho nodo es muy importante
+*- Al realizar los cálculos de forma analítica y comparar con los resultados obtenidos de forma simulada llegamos a obtener una mayor presisción en al anáisis de nodos.*
+
+*-Se pudo identificar cinco nodos presentes en el circuito, en los cuales tenian de 2 o mas elementos conectados en un punto en común.*
+
+*-Se reconocio los tipos de nodos en el circuito, los cuales dos eran nodos fantasmas (dos  conectados), dos nodos principales (dos o mas elementos conectados) y un nodo de referencia.* 
+
+*- Para realizar el respectivo análisis de nodos en cualquier tipo de circuito siempre se tiene en cuenta el nodo de referencia, por lo que
+  conocer cada definición de dicho nodo es muy importante.*
 
 ## 7._ BIBLIOGRAFÍA
 
