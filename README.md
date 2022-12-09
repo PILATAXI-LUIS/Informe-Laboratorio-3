@@ -144,7 +144,7 @@ Se realizó el calculo del porcentaje de error que tuvo en los 3 nodos relaciona
 
 *-Se pudo identificar cinco nodos presentes en el circuito, en los cuales tenian de 2 o mas elementos conectados en un punto en común.*
 
-*-Se reconocio los tipos de nodos en el circuito, los cuales dos eran nodos fantasmas (dos  conectados), dos nodos principales (dos o mas elementos conectados) y un nodo de referencia.* 
+*-Se reconocio los tipos de nodos en el circuito, los cuales dos eran nodos fantasmas (dos  conectados), dos nodos principales (dos o mas elementos conectados) y un nodo de referencia (que cumple con las dos condiciones para que sea nodo de referencia).* 
 
 *- Para realizar el respectivo análisis de nodos en cualquier tipo de circuito siempre se tiene en cuenta el nodo de referencia, por lo que
   conocer cada definición de dicho nodo es muy importante.*
