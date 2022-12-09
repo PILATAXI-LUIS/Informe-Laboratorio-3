@@ -136,7 +136,7 @@ Se realizó el calculo del porcentaje de error que tuvo en los 3 nodos relaciona
 
 ### 5. VIDEO
 
-*Link del video:*
+ - https://youtu.be/IQq7xM_sxjY
 
 ## 6. CONCLUSIONES
 
