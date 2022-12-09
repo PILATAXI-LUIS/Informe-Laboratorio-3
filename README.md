@@ -154,5 +154,3 @@ Se realizó el calculo del porcentaje de error que tuvo en los 3 nodos relaciona
   * Abusleme, A. (s.f). *Método de nodos*. Recuperado de. https://es.coursera.org/lecture/circuitos-spicey-2/metodo-de-nodos-cg79K
   * Floyd, T. L. (2022). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
   * 1º Ley de Kirchhoff – Ley de Kirchhoff de la corriente. (2014, 28 de octubre). Recuperado de. https://ingelibreblog.wordpress.com/2014/02/13/leyes-de-kirchhoff-y-metodo-de-mallas-resolucion-de-circuitos-electricos/
-  
-  
