@@ -18,7 +18,7 @@
 
 *- Reconocer los tipos de nodos.*
 
-*- Aplicar correctamente la LCK para expresar las corrientes en función de volatjes.*
+*- Aplicar correctamente la LCK para expresar las corrientes en función de voltajes.*
 
 ### 2. MARCO TEÓRICO
 
